@@ -22,3 +22,7 @@ This is a repository for a College Management System, a web-based application de
 
 ```bash
 git clone https://github.com/your-username/college-management-system.git
+
+## Contributing
+
+- Contributions are welcome! If you find any issues or would like to add new features, please submit a pull request. Make sure to follow the existing code style.
